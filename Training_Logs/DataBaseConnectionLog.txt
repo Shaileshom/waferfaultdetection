@@ -1,0 +1,8 @@
+2021-02-19/12:43:51		Opened Training database successfully
+2021-02-19/12:45:17		Closed Training database successfully
+2021-02-19/12:45:17		Opened Training database successfully
+2021-02-19/12:47:47		Opened Training database successfully
+2021-02-19/14:06:23		Opened Training database successfully
+2021-02-19/14:06:23		Closed Training database successfully
+2021-02-19/14:06:23		Opened Training database successfully
+2021-02-19/14:08:41		Opened Training database successfully
